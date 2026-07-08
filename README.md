@@ -7,7 +7,7 @@ I am a Computer Science student interested in Software Development, AI, and Full
 
 ## Resume
 You can view or download my resume here:
-Riya_Resume.pdf
+https://github.com/1754riya/Riya_Mehta_Resume
 
 ## Contact
 - Email: rmehta1754@gmail.com
